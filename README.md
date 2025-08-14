@@ -34,11 +34,6 @@ Blynk Library
 
 Adafruit Sensor & MPU6050 Libraries
 
-Circuit
-
-Connect MQ-135 to ESP32 analog pin
-
-Connect MPU6050 to ESP32 I2C pins (SDA, SCL)
 
 
 Circuit diagram, working and code in repo.
